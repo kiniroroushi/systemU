@@ -7,7 +7,7 @@ kiniroroushi
 2.[LICENSE](/LICENSE)　ライセンス   
 3.[Preface](/Preface)　序文  
 4.[concept](/concept)　systemUの重要な概念  
-5.[Decomposition](/Decomposition)　system分解について  
+5.[Decomposition](/Decomposition.md)　system分解について  
 6.[action](/action)　アクションカードについて   
 7.[Place](/Place)　場カードについて  
 8.[Depiction](/Depiction)　描写カードについて   
