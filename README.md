@@ -3,8 +3,8 @@ kiniroroushi
 # systemU
 
 # contents
-1.[README](/README.md)　 
-2.[LICENSE](/LICENSE)　ライセンス  
+1.[README](/README.md)　README  
+2.[LICENSE](/LICENSE)　ライセンス   
 3.[Preface](/Preface)　序文  
 4.[concept](/concept)　systemUの重要な概念  
 5.[Decomposition](/Decomposition)　system分解について  
